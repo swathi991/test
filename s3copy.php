@@ -9,8 +9,8 @@ $s3 = new S3Client([
     'region' => 'us-east-2', // Replace with your region
     'version' => 'latest',
     'credentials' => [
-        'key' => 'AKIAQ4UXMQJTI6C5KT76', // Replace with your access key
-        'secret' => 'rXRG87T3gUDczUpbfUoSrH6fzqPXqAkje62hHlGF', // Replace with your secret key
+        'key' => '', // Replace with your access key
+        'secret' => '', // Replace with your secret key
     ],
 ]);
 
